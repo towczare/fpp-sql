@@ -30,3 +30,8 @@ Przykłady zapytań łączących tabele [05_titles/README.md](05_titles/README.m
 ## Czas na zmiany!
 
 Przykłady modyfikacji na danych [06_modifications/README.md](06_modifications/README.md)
+
+## Działy
+
+Przykłady zadań agregujących dane o działach [07_departments/README.md](07_departments/README.md)
+
