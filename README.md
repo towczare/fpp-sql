@@ -14,3 +14,7 @@ Postępuj zgodnie z instrukcjami zawartymi w [01_employees_import/README.md](01_
 ## Czas na rozgrzewkę
 
 Przykłady funkcji czasu zestaw [02_date_time/README.md](02_date_time/README.md)
+
+## Kto dla nas pracuje?
+
+Przykłady zapytań na tabeli pracowników [03_employees/README.md](03_employees/README.md)
