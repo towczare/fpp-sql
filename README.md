@@ -18,3 +18,11 @@ Przykłady funkcji czasu zestaw [02_date_time/README.md](02_date_time/README.md)
 ## Kto dla nas pracuje?
 
 Przykłady zapytań na tabeli pracowników [03_employees/README.md](03_employees/README.md)
+
+## Kto ma pieniążki?
+
+Przykłady zapytań łączących dwie tabele (pracownicy i wypłaty) [04_salaries/README.md](04_salaries/README.md)
+
+## Kogo zatrudniamy?
+
+Przykłady zapytań łączących tabele [05_titles/README.md](05_titles/README.md)
