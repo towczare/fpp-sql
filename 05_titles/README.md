@@ -9,3 +9,4 @@
 05.04 Policz ile kobiet i ile mężczyzn pracuje na danym stanowisku gdzie max zatrudnienia to 100 osob
 
 05.05 Na których stanowiskach pracuje więcej niż 100 000 osób? (HAVING)
+

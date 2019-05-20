@@ -26,3 +26,7 @@ Przykłady zapytań łączących dwie tabele (pracownicy i wypłaty) [04_salarie
 ## Kogo zatrudniamy?
 
 Przykłady zapytań łączących tabele [05_titles/README.md](05_titles/README.md)
+
+## Czas na zmiany!
+
+Przykłady modyfikacji na danych [06_modifications/README.md](06_modifications/README.md)
