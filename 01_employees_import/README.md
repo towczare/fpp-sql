@@ -1,5 +1,6 @@
 ## Import bazy pracowników
 
+
 0. Skopiuj cały folder `employees` do ścieżki `C:\DB` (alternatywnie możesz zmienić namiary w pliku `employees.sql` na takie aby wskazywały lokalizacje tego folderu)
 1. Otwieramy konsolę wpisując w pasek start `cmd`
 2. Przechodzimy do lokalizacji folderu employees poleceniem:
@@ -90,3 +91,8 @@ Enter password: *******
 | count   | OK     |
 +---------+--------+
 ```
+
+
+
+
+Źródło: [https://github.com/datacharmer/test_db](https://github.com/datacharmer/test_db)
