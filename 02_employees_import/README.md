@@ -34,7 +34,6 @@ INFO
 LOADING salaries
 data_load_time_diff
 00:01:07
-
 ```
 4. Weryfikujemy czy wszystko przebiegło poprawnie odpalająć skrypt walidacyjny:
 ```
@@ -92,7 +91,7 @@ Enter password: *******
 +---------+--------+
 ```
 
-
-
+5. Pomyślnie zaimportowaliśmy bazę `Employees`. Poniżej diagram ERD schematu tej bazy.
+![.images/employees-schema.png](.images/employees-schema.png)
 
 Źródło: [https://github.com/datacharmer/test_db](https://github.com/datacharmer/test_db)

@@ -1,7 +1,6 @@
 ## Instalacja
 
-1. Pobieramy i instalujemy serwer MySQL Community Server 5.7 z [https://dev.mysql.com/downloads/mysql/5.7.html#downloads](https://dev.mysql.com/downloads/mysql/5.7.html#downloads)
-Alternatywnie może to być wersja 8.0
+1. Pobieramy i instalujemy najnowszą wersję serwera MySQL Community Server z [https://dev.mysql.com/downloads/mysql](https://dev.mysql.com/downloads/mysql)
 2. Podczas instalacji wybieramy pierwszą opcję
     ![.images/1.png](.images/1.png)
 3. Następnie domyślne opcje
@@ -20,6 +19,8 @@ mysql --version
 ```
 
 ## Instalujemy MySQL Workbench
+
+Pobieramy instalkę z [https://dev.mysql.com/downloads/workbench/](https://dev.mysql.com/downloads/workbench/)
 
 ## Ustawiamy poprawne kodowanie baz
 1. Uruchamiamy MySQL Workbench i wybieramy opcję po lewo `Options File`
