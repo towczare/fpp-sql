@@ -36,3 +36,6 @@ Przykłady modyfikacji na danych [06_employees_modifications/README.md](06_emplo
 
 Przykłady zadań agregujących dane o działach [07_employees_departments/README.md](07_employees_departments/README.md)
 
+## Funkcje i procedury
+
+Przykład funkcji i procedur [08_employees_functions/README.md](08_employees_functions/README.md)
