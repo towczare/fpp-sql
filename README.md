@@ -39,3 +39,12 @@ Przykłady zadań agregujących dane o działach [07_employees_departments/READM
 ## Funkcje i procedury
 
 Przykład funkcji i procedur [08_employees_functions/README.md](08_employees_functions/README.md)
+
+## Import bazy filmów Sakila
+
+Importujemy kolejną bazę o nazwie Sakila [09_sakila_import/README.md](09_sakila_import/README.md)
+
+## Szukamy filmów
+
+Powtórzenie wiedzy na większej bazie danych [10_sakila_selects/README.md](10_sakila_selects/README.md)
+
