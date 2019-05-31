@@ -3,7 +3,7 @@
 Poniższe repozytorium powstało dzięki uprzejmości [Marcina Erbela](https://github.com/Frendzel)
 Oryginalne repozytorium autora dostępne [pod tym linkiem](https://github.com/Frendzel/sda-sql)
 
-Zadania oznaczone :bulp::thinking: proszą o przygotowanie własnych zadań.
+Zadania oznaczone X.:bulb: proszą o przygotowanie własnych zadań.
 Najlepsze zadania zostaną dodane do obecnego repozytorium wraz z linkiem do waszego profilu lub repozytorium.
 Na zawsze zapiszecie się na kartach histori przyszłych edycji SDA, czeka was sława, pieniądze i chwała :trophy:
 
