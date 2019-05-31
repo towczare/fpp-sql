@@ -3,7 +3,7 @@
 ![../09_sakila_import/.images/sakila-schema.png](../09_sakila_import/.images/sakila-schema.png)
 [https://dev.mysql.com/doc/sakila/en/](https://dev.mysql.com/doc/sakila/en/)
 
-1. Wykonaj po kolei wszystkie polecenie i przeanalizuj dane jakie są dostępne w bazie.
+1. Wykonaj po kolei wszystkie polecenia i przeanalizuj dane jakie są dostępne w bazie.
 ```
 SHOW databases;
 USE sakila;
@@ -34,7 +34,7 @@ SELECT * FROM staff;
 SELECT * FROM staff_list;
 SELECT * FROM store;
 ```
-10.2. Prepare queries to answer following questions:
+10.2. Przygotuj odpowiednie zapytanie odpowiadające na następujące pytanie:
 * 10.2.1 Podaj pełne dane aktorów mających na imię ‘Scarlett’
 * 10.2.2 Podaj pełne dane aktorów mających na nazwisko ‘Johansson’
 * 10.2.3 Ile niepowtarzalnych nazwisk aktorów zawiera baza?
