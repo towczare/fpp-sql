@@ -10,3 +10,4 @@
 
 07.05 Który dział miał najwięcej managerów?
 
+07.:bulb: Kolej na Ciebie :thinking:, przygotuj 3 własne zagadki i zaproponowane rozwiązania.

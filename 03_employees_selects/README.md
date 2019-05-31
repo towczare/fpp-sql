@@ -120,3 +120,6 @@ group by gender;
 </details>  
 
 * 03.08.01  Policz wszystkich pracujących mężczyzn i kobiety zatrudnionych po 2000, zatrudnionych na stanowisku starszego inżyniera.
+
+
+03.:bulb: Kolej na Ciebie :thinking:, przygotuj 3 własne zagadki i zaproponowane rozwiązania.

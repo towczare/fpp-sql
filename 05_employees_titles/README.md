@@ -10,3 +10,4 @@
 
 05.05 Na których stanowiskach pracuje więcej niż 100 000 osób? (HAVING)
 
+05.:bulb: Kolej na Ciebie :thinking:, przygotuj 3 własne zagadki i zaproponowane rozwiązania.

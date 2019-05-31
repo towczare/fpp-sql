@@ -44,5 +44,6 @@ SELECT * FROM store;
 * 10.2.7 Jaka jest średnia długość filmu w bazie?
 * 10.2.8 Jaka jest średnia długość filmu w bazie per kategoria?
 
+10.:bulb: Kolej na Ciebie :thinking:, przygotuj 3 własne zagadki i zaproponowane rozwiązania.
 
 

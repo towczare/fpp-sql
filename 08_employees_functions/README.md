@@ -46,3 +46,5 @@ Funkcję wykorzystaj aby wyświetlić dane o pracownikach i zamień dwa pola:
 ```
 10001	Senior Engineer	1953-09-02	Georgi	Facello	M	1986-06-26	60117	2002-06-22
 ```
+
+08.:bulb: Kolej na Ciebie :thinking:, przygotuj 3 własne zagadki i zaproponowane rozwiązania.
