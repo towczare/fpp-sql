@@ -30,12 +30,3 @@ Pobieramy instalkę z [https://dev.mysql.com/downloads/workbench/](https://dev.m
 * zaznaczamy opcje `default_collation_for_utf8mb4` z wybranym `utf8`
 3. Wciskamy przycisk `Apply` na dole i czekamy na restart serwera.
 
-
-## Opcjonalne przydatne informacje
-
-1. Restart serwera MySQL
-Uruchamiamy konsolę poleceniem `cmd` w pasku start i wybieramy opcję `Uruchom jako administrator`
-```
-net stop MySQL57
-net start MySQL57
-```
