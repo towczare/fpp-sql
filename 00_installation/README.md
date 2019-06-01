@@ -1,6 +1,6 @@
 ## Instalacja
 
-1. Pobieramy i instalujemy najnowszą wersję serwera MySQL Community Server z [https://dev.mysql.com/downloads/mysql](https://dev.mysql.com/downloads/mysql)
+1. Pobieramy i instalujemy najnowszą wersję serwera MySQL Community Server z [https://dev.mysql.com/downloads/windows/installer/8.0.html](https://dev.mysql.com/downloads/windows/installer/8.0.html)
 2. Podczas instalacji wybieramy pierwszą opcję
     ![.images/1.png](.images/1.png)
 3. Następnie domyślne opcje
