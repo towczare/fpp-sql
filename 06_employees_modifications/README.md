@@ -13,3 +13,5 @@ Możesz je wygenerować przy pomocy serwisu [https://www.mockaroo.com/](https://
 06.05 Awansuj kilku pracowników (3) wybranych przez siebie
 
 06.06 Zmień dział pracownika `Zhenbing	Perng` z działu development na dział `Sales`
+
+06.07 Zwolnij z dniem dzisiejszym pracownika `Badri Furudate`
