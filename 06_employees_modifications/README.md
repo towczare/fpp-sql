@@ -24,7 +24,7 @@ Autor: [Radekj512](https://github.com/Radekj512)
 * 06.08.02 Nadaj sobie tytuł `Engineer` obowiązujący od dnia dzisiajeszego na okres 3 miesiecy
 * 06.08.02 Zdefiniuj pensję od dnia dzisiajeszego do roku następnego w wysokości 100000$
 
-😱 06.09 Podnieś pensję o 10% wszystkim osobom spełniającym następujące kryteria:
+06.09 :scream: Podnieś pensję o 10% wszystkim osobom spełniającym następujące kryteria:
 * piastujący obecnie stanowisko `Technique Leader`
 * urodzonych przed 1953 rokiem
 * którzy do aktualnego roku (2019) przepracowali na ostatniej pozycji 34 lub więcej lat 

@@ -43,6 +43,21 @@ SELECT * FROM store;
 * 10.2.6 Który aktor wystąpił w największej ilości filmów? Ile było to filmów?
 * 10.2.7 Jaka jest średnia długość filmu w bazie?
 * 10.2.8 Jaka jest średnia długość filmu w bazie per kategoria?
+* 10.2.9 Pobierz filmy z kategorii family
+* 10.2.10 Pobierz najchętniej wypożyczane filmy
+* 10.2.11 Wyświetl ile piniędzy zarobił łącznie każdy ze sklepów
+* 10.2.12 Wyświetl miasto i kraj dla wszystkich sklepów
+* 10.2.13 Wyświetl informacje o kategoriach filmów i ich łącznych zyskach jakie wygenerowały
+* 10.2.14 Stwórz widok prezentujący powyższe dane z zadania 10.2.13
+* 10.2.15 Wyświetl wszystkich aktorów którzy w nazwisku posiadają litery `LI`
+* 10.2.16 Wykorzystując wbudowane funckje geometryczne typu `ST_AS_TEXT(geo)` i ST_X(geo), ST_Y(geo) wygeneruj gotowe dane do przeklejenia z tabeli danych adresowych, którą będzie można przekleić w serwisie [http://dwtkns.com/pointplotter/](http://dwtkns.com/pointplotter/)
+    * przykład formatu danych obsługiwanych w serwisie:
+    ```
+    6.6328266,46.5169343
+    128.0449753,46.9804391
+    ```
+    * uwaga, kilka wpisów posiada błędne lokalizacje 0 0 , wyeliminujmy je
+
 
 10.:bulb: Kolej na Ciebie :thinking:, przygotuj 3 własne zagadki i zaproponowane rozwiązania.
 
