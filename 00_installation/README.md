@@ -27,6 +27,5 @@ Pobieramy instalkę z [https://dev.mysql.com/downloads/workbench/](https://dev.m
 2. W okno powyżej `Locate option` wpisujemy `collation`
 * zaznaczamy opcje `character-set-server` z wpisanym `utf8mb4`
 * zaznaczamy opcje `collation-server` z wpisanym `utf8mb4_0900_ai_ci`
-* zaznaczamy opcje `default_collation_for_utf8mb4` z wybranym `utf8`
 3. Wciskamy przycisk `Apply` na dole i czekamy na restart serwera.
 
