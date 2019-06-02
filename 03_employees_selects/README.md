@@ -119,7 +119,14 @@ group by gender;
 </p>
 </details>  
 
-* 03.08.01  Policz wszystkich pracujących mężczyzn i kobiety zatrudnionych po 2000, zatrudnionych na stanowisku starszego inżyniera.
+* 03.08.01  Policz wszystkich pracujących mężczyzn i kobiety zatrudnionych po 1995, zatrudnionych na stanowisku starszego inżyniera.
+
+:gem: 03.09 Wyszukaj wszystkie osoby które pracowały w okresie od 1990 do 1995. Innymi słowy: 
+- mogły zacząć pracę przed 1990 o ile pracowały nadal po 1990,
+- mogły zakończyć pracę po 1995 o ile przed 1995 pracowały 
+- lub mofły pracować tylko w okresie od 1990 do 1995
+
+Autor: [Radekj512](https://github.com/Radekj512)
 
 
 03.:bulb: Kolej na Ciebie :thinking:, przygotuj 3 własne zagadki i zaproponowane rozwiązania.

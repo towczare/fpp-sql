@@ -1,7 +1,7 @@
 ## Import bazy pracowników
 
 
-0. Skopiuj cały folder `employees` do ścieżki `C:\DB` (alternatywnie możesz zmienić namiary w pliku `employees.sql` na takie aby wskazywały lokalizacje tego folderu)
+0. Skopiuj cały folder `employees` do ścieżki `C:\DB`
 1. Otwieramy konsolę wpisując w pasek start `cmd`
 2. Przechodzimy do lokalizacji folderu employees poleceniem:
 ```
