@@ -23,8 +23,8 @@
 * 05.06.02 Wyświetl zarobki, imię i nazwisko pracownika wraz płcią, którzy zarabiają powyżej średniej
 * 05.06.03 Wyświetl zarobki, imię i nazwisko pracownika wraz płcią, którzy zarabiają poniżej średniej
 
-05.09 Wyświetlić płeć, liczbę pracowników, średnie wynagrodzenie, sumę wynagrodzenia i maksymalne wynagrodzenie dla danej płci.
+04.07 Wyświetlić płeć, liczbę pracowników, średnie wynagrodzenie, sumę wynagrodzenia i maksymalne wynagrodzenie dla danej płci.
 
-05.10 Wyświetl sumę zarobków danego pracownika na przestrzeni wszystkich lat.
+04.08 Wyświetl sumę zarobków danego pracownika na przestrzeni wszystkich lat.
 
-05.:bulb: Kolej na Ciebie :thinking:, przygotuj 3 własne zagadki i zaproponowane rozwiązania.
+04.:bulb: Kolej na Ciebie :thinking:, przygotuj 3 własne zagadki i zaproponowane rozwiązania.
