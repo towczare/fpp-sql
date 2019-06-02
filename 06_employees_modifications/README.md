@@ -23,3 +23,11 @@ Autor: [Radekj512](https://github.com/Radekj512)
 * 06.08.01 Zatrudnij się w dziale `Development` 
 * 06.08.02 Nadaj sobie tytuł `Engineer` obowiązujący od dnia dzisiajeszego na okres 3 miesiecy
 * 06.08.02 Zdefiniuj pensję od dnia dzisiajeszego do roku następnego w wysokości 100000$
+
+😱 06.09 Podnieś pensję o 10% wszystkim osobom spełniającym następujące kryteria:
+* piastujący obecnie stanowisko `Technique Leader`
+* urodzonych przed 1953 rokiem
+* którzy do aktualnego roku (2019) przepracowali na ostatniej pozycji 34 lub więcej lat 
+* pamiętaj aby zmienić tylko ostatnią pensję nie historyczne (data to_date powinna wynosić `9999-01-01` lub `> curdate()` ) 
+
+:bulb: TIP Spróbuj przygotować select, który na początek zwróci wszystkich tych pracowników. Jest ich 43.
