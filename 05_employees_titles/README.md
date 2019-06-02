@@ -2,7 +2,7 @@
 
 05.01 Policz ile osób pracuje na danym stanowisku
 
-05.02 Policz ile osób pracuje na danym stanowisku, gdzie min zatrudnienia to 1000 osob
+05.02 Policz ile osób pracuje na danym stanowisku, gdzie min zatrudnienia to 2000 osob
 
 05.03 Policz ile kobiet i ile mężczyzn pracuje na danym stanowisku.
 
