@@ -15,7 +15,7 @@
 04.05 :scream: Wyświetlić mężczyznę i kobietę, którzy zarabiają najwięcej
 
 * 04.05.01 Wyświetl największe zarobki per rok wypłacanej pensji.
-* 04.05.02 Pobierz dane i zaprezentuj je w formie wykresu używając np. excela albo google calc drive.
+* 04.05.02 Pobierz dane dla kilku lat i zaprezentuj je w formie wykresu używając np. excela albo google calc drive.
 
 04.06 Wyświetl zarobki, imie i nazwisko pracownika wraz płcią w formie jednej kolumny, którzy zarabiają powyżej 150000 w konstrukcjach z JOIN
 
