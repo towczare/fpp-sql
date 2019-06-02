@@ -8,7 +8,9 @@ Możesz je wygenerować przy pomocy serwisu [https://www.mockaroo.com/](https://
 
 06.03 Dokonać odwrotnej operacji zmiany płci w celu przywrócenia danych pierwotnych
 
-06.04 Wykorzystaj instrukcję DATEDIFF i TIMEDIFF ...
+:gem: 06.04 Wykorzystaj instrukcję DATEDIFF i TIMEDIFF Policz osoby ktore pracowaly mniej niz 30 dni na jednym stanowisku.
+
+Autor: [Radekj512](https://github.com/Radekj512)
 
 06.05 Awansuj kilku pracowników (3) wybranych przez siebie
 
