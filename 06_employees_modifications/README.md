@@ -15,3 +15,9 @@ Możesz je wygenerować przy pomocy serwisu [https://www.mockaroo.com/](https://
 06.06 Zmień dział pracownika `Zhenbing	Perng` z działu development na dział `Sales`
 
 06.07 Zwolnij z dniem dzisiejszym pracownika `Badri Furudate`
+
+06.08 Dodaj siebie do tabeli pracowników.
+
+* 06.08.01 Zatrudnij się w dziale `Development` 
+* 06.08.02 Nadaj sobie tytuł `Engineer` obowiązujący od dnia dzisiajeszego na okres 3 miesiecy
+* 06.08.02 Zdefiniuj pensję od dnia dzisiajeszego do roku następnego w wysokości 100000$
