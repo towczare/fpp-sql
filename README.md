@@ -52,3 +52,6 @@ Importujemy kolejną bazę o nazwie Sakila [09_sakila_import/README.md](09_sakil
 
 Powtórzenie wiedzy na większej bazie danych [10_sakila_selects/README.md](10_sakila_selects/README.md)
 
+## 11. Twoja własna baza danych
+
+Tworzymy własny schemat bazy danych. [11_your_own_database/README.md](11_your_own_database/README.md])
