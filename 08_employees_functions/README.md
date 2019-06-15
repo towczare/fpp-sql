@@ -21,6 +21,8 @@ SELECT HelloWorld();
 
 Pierwsza procedura:
 ```
+delimiter //
+
 CREATE PROCEDURE all_employees ()
 
 SELECT * FROM employees;
