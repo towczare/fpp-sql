@@ -54,4 +54,4 @@ Powtórzenie wiedzy na większej bazie danych [10_sakila_selects/README.md](10_s
 
 ## 11. Twoja własna baza danych
 
-Tworzymy własny schemat bazy danych. [11_your_own_database/README.md](11_your_own_database/README.md])
+Tworzymy własny schemat bazy danych. [11_your_own_database/README.md](11_your_own_database/README.md)
