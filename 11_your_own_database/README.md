@@ -3,6 +3,7 @@
 11.1 Używając jednego z narzędzi zaprojektuj swój włąsny schemat bazy danych. Proponowane narzędzia:
 * [Draw.io](https://www.draw.io/) - łątwa możliwość wizualnego zaprojektowania bazy. Brak możliwości eksportu do SQL
 * [dbdiagram.io](https://dbdiagram.io/home) - brak możliwości rysowania diagramów poza relacjami. Plusem jest generowany SQL, któy możemy w łatwy sposó użyć.
+* [https://app.dbdesigner.net/](https://app.dbdesigner.net/) - całkiem przyjemne, chociaż z limitami. Polecam skorzystać z tymczasowego maila, do naszego zadania limitowana edycja powinna w zupełności wystarczyć.
 
 Wymagania:
 * minimum 5 tabel
