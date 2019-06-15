@@ -89,6 +89,7 @@ Funkcję wykorzystaj aby wyświetlić dane o pracownikach i zamień dwa pola:
 * first_name
 * last_name
 * modify_date
+
 aby dostać się do tych pól, można skorzystać z przedrostka `OLD` np. `OLD.first_name` co zwróci dane przez operacją.
 
 08.:bulb: Kolej na Ciebie :thinking:, przygotuj 3 własne zagadki i zaproponowane rozwiązania.
