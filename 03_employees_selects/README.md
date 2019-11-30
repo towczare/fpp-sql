@@ -71,7 +71,7 @@ select COUNT(*) FROM employees.dept_emp;
 </details>  
 
 * 03.05.01 Ile było i jest w firmie zatrudnionych kobiet?
-* 03.05.01 Ile było i jest w firmie zatrudnionych mężczyzn zatrudnionych po 2000 roku?
+* 03.05.01 Ile było i jest w firmie zatrudnionych mężczyzn zatrudnionych po 1990 roku?
 
 
 03.06 Ilu inżynierów ('engineer') pracuje obecnie w firmie (tabela titles)?
