@@ -92,7 +92,7 @@ Funkcję wykorzystaj aby wyświetlić dane o pracownikach i zamień dwa pola:
 
 aby dostać się do tych pól, można skorzystać z przedrostka `OLD` np. `OLD.first_name` co zwróci dane przez operacją.
 
-:gem: 08.06 Stwórz procedurę o nazwie get_employees_be_title() prezentującą pracowników z podanym  tytułem. Tytuł powinien być podany jako argument procedury.
+:gem: 08.06 Stwórz procedurę o nazwie get_employees_by_title() prezentującą pracowników z podanym  tytułem. Tytuł powinien być podany jako argument procedury.
 
 Autor: [Radekj512](https://github.com/Radekj512)
 
