@@ -59,6 +59,12 @@ SELECT * FROM store;
     * uwaga, kilka wpisów posiada błędne lokalizacje 0 0 , wyeliminujmy je
 
 
+:gem: 10.2.17 Podaj średnią długośc filmów w których grał dany aktor.
+Autor: [BAGM2019](https://github.com/BAGM2019)
+:gem: 10.2.18 Podaj średnią długość wypożyczenia wg. gatunku.
+Autor: [McAbra](https://github.com/McAbra)
+
+
 10.:bulb: Kolej na Ciebie :thinking:, przygotuj 3 własne zagadki i zaproponowane rozwiązania.
 
 
