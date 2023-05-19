@@ -1,4 +1,4 @@
-# SQL SDA
+# FPP SQL
 
 Poniższe repozytorium powstało dzięki uprzejmości [Marcina Erbela](https://github.com/Frendzel)
 Oryginalne repozytorium autora dostępne [pod tym linkiem](https://github.com/Frendzel/sda-sql)
